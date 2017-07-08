@@ -1,0 +1,16 @@
+{
+  "name": "request_parser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Maosen Chen",
+  "license": "ISC",
+  "dependencies": {
+    "accepts": "^1.3.3",
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3"
+  }
+}
