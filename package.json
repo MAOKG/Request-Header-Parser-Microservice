@@ -10,8 +10,9 @@
   "author": "Maosen Chen",
   "license": "ISC",
   "dependencies": {
-    "accepts": "^1.3.3",
     "body-parser": "^1.17.2",
-    "express": "^4.15.3"
+    "express": "^4.15.3",
+    "express-useragent": "^1.0.7",
+    "request-ip": "^2.0.2"
   }
 }
